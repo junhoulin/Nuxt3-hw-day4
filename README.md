@@ -1,4 +1,4 @@
-## 🌏六角學院每日任務 DAY3
+## 🌏六角學院每日任務 DAY4
 
 - 將ProductCard拆分為不同小組件(例如:title、price、image、button)
 
